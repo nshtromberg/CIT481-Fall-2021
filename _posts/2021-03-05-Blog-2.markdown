@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Creating Infrastructure to Host Aplications:"
+date:   2021-02-19 20:47:47 -0800
+categories: jekyll update
+---
+
+
+# #  **Custom Domains for Github Blogs:**
+
+This week I will be working on collecting resources on why custom domain names are becoming popular when creating blog pages on GitHub
+
+
+GitHub Pages are a convinient and quick way to publish blogs, weather they are personal or professional.
+GitHub Pages supported [custom domains](http://https://github.blog/2009-01-21-cname-support-for-github-pages/ "custom domains")   and are a great tool to create beautiful sites.
+
+###  Getting you desired domain name
+
+There are different ways of getting the domain name. CNAME or ALIAS can be accesable over HTTPS and will support correct loading of the site over HTTPS.
+
+### Steps to take to prepare GitHub for Custom Domain
+
+On GitHub, go to the Settings page of your new repository, scroll down to the GitHub Pages section, and enable it by selecting a Source. After you refresh the page, you should see a green success banner that tells you this repository is now published at http://deanattali.com/MyCoolProject.
+
+![](https://deanattali.com/assets/img/blog/multiplegithubpages/step1%20github%20settings%20enable%20pages.PNG)
