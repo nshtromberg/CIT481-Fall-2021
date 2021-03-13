@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Setting Up EC2 Instance:"
+date:   2021-02-19 20:47:47 -0800
+categories: jekyll update
+---
+
+
+# Setting up EC2 instance with GitHub
+
+ 
+
+This week I will be working on setting up EC2 instance on AWS
+
+As a beginner I will use AWS Free Tier until I get comfortable with running instances.
+
+ 
+
+AWS offers Getting Started [guide](http://https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2_GetStarted.html "guide") for beginners
+
+ 
+
+ 
+
+ 
+
+###  Sign up for AWS and set up EC2
+
+ 
+
+Complete the tasks in this section to get set up for launching an Amazon EC2 instance for the first time:
+
+ 
+
+Sign up for AWS
+
+ 
+
+Create a key pair
+
+ 
+
+Create a security group
+
+ 
+
+When you are finished, you will be ready for the Amazon EC2 Getting started tutorial.
+
+ 
+
+Sign up for AWS
+
+When you sign up for Amazon Web Services (AWS), your AWS account is automatically signed up for all services in AWS, including Amazon EC2. You are charged only for the services that you use.
+
+ 
+
+With Amazon EC2, you pay only for what you use. If you are a new AWS customer, you can get started with Amazon EC2 for free. For more information, see AWS Free Tier.
+
+ 
+
+If you have an AWS account already, skip to the next task. If you don't have an AWS account, use the following procedure to create one.
+
+ 
+
+To create an AWS account
+
+ 
+
+Open https://portal.aws.amazon.com/billing/signup.
+
+ 
+
+Follow the online instructions.
+
+ 
+
+Part of the sign-up procedure involves receiving a phone call and entering a verification code on the phone keypad.
+
+ 
+
+Create a key pair
+
+AWS uses public-key cryptography to secure the login information for your instance. A Linux instance has no password; you use a key pair to log in to your instance securely. You specify the name of the key pair when you launch your instance, then provide the private key when you log in using SSH.
+
+ 
+
+If you haven't created a key pair already, you can create one using the Amazon EC2 console. Note that if you plan to launch instances in multiple Regions, you'll need to create a key pair in each Region. For more information about Regions, see Regions and Zones.
+
+ 
+
+There are different ways of getting the domain name. CNAME or ALIAS can be accesable over HTTPS and will support correct loading of the site over HTTPS.
+
+ 
