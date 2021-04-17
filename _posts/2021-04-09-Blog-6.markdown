@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Setting Up EC2 Instance:"
+date:   2021-02-19 20:47:47 -0800
+categories: jekyll update
+---
+
+
+
+# CodeDeploy integration with GitHub
+
+
+
+-Create a revision that is compatible with CodeDeploy
+-Add the revision to GiHub repository
+-EC2 instance ready
+## IAM 
+A new role needs to be set up in the AWS console - DeployRole. Attached AWSCodeDeployRole policu tto that role.
+
+## AWS CodePipeline Chart
+
+![](https://docs.aws.amazon.com/codepipeline/latest/userguide/images/PipelineFlow.png)
+
+
+
+
+Helpful video I found on Youtube:
+
+
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/N3saR9D7hq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+
