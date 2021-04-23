@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Creating Infrastructure to Host Aplications:"
+date:   2021-02-19 20:47:47 -0800
+categories: jekyll update
+---
+Blog 8
+
+
+# WebForms
+Website that rely on customer input require one or another form that takes customer input and reports back to admins. Most commonly used forms on websites are subscription forms. WebForms can be designed to simple help customers subscribe to your website and newsletters or register to the website. 
+
+
+
+# How to make them
+When considering adding a form onto your website, we should think about the purpose of the form. Designing the form can help customers make a dession wheither they are willing to fill it out or not. Making clear instructions on the form is important, it is also inportant to consider appearance of the form.
+
+
+# Tools to help design the forms for your website
+There are many types of forms available for web developers. Desiding on the outcome of the form will help make a decision on the type of form to use.
+Basic subscription form can include email address and a `subscribe` or submit `button`. Contact form can have much more information that a web developer can collect from customers.
+
+
+excample of a simple form
+``
+
+
+
+
+
