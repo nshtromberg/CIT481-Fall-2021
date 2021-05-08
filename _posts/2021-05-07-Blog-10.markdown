@@ -1,13 +1,4 @@
 
----
-layout: post
-title:  "Creating Infrastructure to Host Aplications:"
-date:   2021-02-19 20:47:47 -0800
-categories: jekyll update
----
-
-
-
 
 
 <!DOCTYPE html>
